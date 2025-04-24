@@ -3,7 +3,7 @@ bg="""
 <style>
 st.App {
     background-color: #FF0000;
-    color:FFFFFF;
+    color:#FFFFFF;
 }
 </style>
 """
