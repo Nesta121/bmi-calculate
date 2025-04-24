@@ -1,7 +1,7 @@
 import streamlit as st
 bg="""
 <style>
-st.App {
+.stApp {
     background-color: #FF0000;
     color:#FFFFFF;
 }
