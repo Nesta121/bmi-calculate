@@ -1,4 +1,13 @@
 import streamlit as st
+bg="""
+<style>
+st.App {
+    background-color: #FF0000;
+    color:FFFFFF;
+}
+</style>
+"""
+st.html(bg)
 
 st.title("BMI Calculation")
 st.markdown("---")
