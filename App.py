@@ -1,14 +1,13 @@
 import streamlit as st
 bg="""
-<style> 
-.stApp {
-    background-image: url("https://i.pinimg.com/736x/fd/af/73/fdaf731adbe8fff9840445de261e4610.jpg")
-    background-size: cover;
-    background-position: no-repeat;
-    background-attachment: fixed;
+<style>
+st.App {
+    background-color: #FF0000;
+    color:FFFFFF;
 }
 </style>
-""""""
+"""
+st.html(bg)
 st.title("BMI Calculation")
 st.markdown("---")
 
