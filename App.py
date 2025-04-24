@@ -6,6 +6,9 @@ bg="""
     background-size: cover;
     background-position: no-repeat;
     background-attachment: fixed;
+}
+</style>
+""""""
 st.title("BMI Calculation")
 st.markdown("---")
 
